@@ -1,0 +1,60 @@
+{
+  "DOMAIN": {
+    "WELCOME": "Bem-vindo ao WebCareManager"
+  },
+  "FOOTER": {
+    "ALL_RIGHTS_RESERVED": "Todos os direitos reservados",
+    "CONTACT": "Contato",
+    "SUPPORT": "Suporte"
+  },
+  "COMMON": {
+    "HOME": "Home",
+    "LOGOUT": "Sair"
+  },
+  "HEADER": {
+    "TITLE": "WebCareManager",
+    "MENU": "Menu",
+    "MENU_PRINCIPAL_OPEN": "Menu Principal (Abrir)",
+    "MENU_PRINCIPAL_CLOSE": "Menu Principal (Fechar)",
+    "MENU_SECUNDARY": "Menu Secundário",
+    "MENU_USER": "Menu de Usuário",
+    "BUG_REPORT": "Relatar bug",
+    "FEEDBACK": "Feedback",
+    "TASK": "Tarefa",
+    "MESSAGE": "Mensagem",
+    "SETTINGS": "Configurações",
+    "THEME": {
+      "LABEL": "Tema",
+      "AUTO": "Auto",
+      "LIGHT": "Claro",
+      "DARK": "Escuro"
+    },
+    "LANGUAGE": "Idioma",
+    "LANGUAGES": {
+      "PT-BR": {
+        "NAME": "Português (Brasil)",
+        "REGION": "Brasil"
+      },
+      "EN": {
+        "NAME": "Inglês",
+        "REGION": "International"
+      },
+      "ES": {
+        "NAME": "Espanhol",
+        "REGION": "España/Latinoamérica"
+      },
+      "DE": {
+        "NAME": "Alemão",
+        "REGION": "Alemanha"
+      },
+      "FR": {
+        "NAME": "Francês",
+        "REGION": "França/Canadá"
+      },
+      "IT": {
+        "NAME": "Italiano",
+        "REGION": "Italia"
+      }
+    }
+  }
+}

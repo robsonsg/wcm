@@ -1,0 +1,6 @@
+import{$ as i}from"./chunk-R5P75FUM.js";var r=(()=>{class e{toastContainer=null;constructor(){this.createToastContainer()}createToastContainer(){this.toastContainer=document.createElement("div"),this.toastContainer.className="toast-container position-fixed top-0 end-0 p-3",this.toastContainer.style.zIndex="1100",this.toastContainer.setAttribute("aria-live","polite"),this.toastContainer.setAttribute("aria-atomic","true"),document.body.appendChild(this.toastContainer)}showToast(o,a="success",s=3e3){this.toastContainer||this.createToastContainer();let t=document.createElement("div");t.className=`toast align-items-center text-white bg-${a} border-0 mb-2 show`,t.setAttribute("role","alert"),t.setAttribute("aria-live","assertive"),t.setAttribute("aria-atomic","true"),t.innerHTML=`
+      <div class="d-flex">
+        <div class="toast-body">${o}</div>
+        <button type="button" class="btn-close btn-close-white me-2 m-auto" aria-label="Close"></button>
+      </div>
+    `,t.querySelector("button")?.addEventListener("click",()=>{this.toastContainer?.removeChild(t)}),this.toastContainer?.appendChild(t),setTimeout(()=>{t.parentElement&&this.toastContainer?.removeChild(t)},s)}static \u0275fac=function(a){return new(a||e)};static \u0275prov=i({token:e,factory:e.\u0275fac,providedIn:"root"})}return e})();export{r as a};

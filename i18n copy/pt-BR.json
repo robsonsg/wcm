@@ -1,0 +1,18 @@
+{
+  "DOMAIN": {
+    "WELCOME": "Bem-vindo ao WebCareManager"
+  },
+  "FOOTER": {
+    "ALL_RIGHTS_RESERVED": "Todos os direitos reservados",
+    "CONTACT": "Contato",
+    "SUPPORT": "Suporte"
+  },
+  "LANGUAGES": {
+    "PT-BR": "Português",
+    "EN": "English",
+    "ES": "Español",
+    "DE": "Deutsch",
+    "FR": "Français",
+    "IT": "Italiano"
+  }
+}
