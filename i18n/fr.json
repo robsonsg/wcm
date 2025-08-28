@@ -1,0 +1,59 @@
+{
+  "DOMAIN": {
+    "WELCOME": "Bienvenue sur WebCareManager"
+  },
+  "FOOTER": {
+    "ALL_RIGHTS_RESERVED": "Tous droits réservés",
+    "CONTACT": "Contact",
+    "SUPPORT": "Soutien"
+  },
+  "COMMON": {
+    "HOME": "Maison",
+    "LOGOUT": "Sortir"
+  },
+  "HEADER": {
+    "TITLE": "WebCareManager",
+    "MENU": "Menu",
+    "MENU_PRINCIPAL_OPEN": "Menu principal (ouvert)",
+    "MENU_PRINCIPAL_CLOSE": "Menu principal (Fermer)",
+    "MENU_SECUNDARY": "Menu secondaire",
+    "MENU_USER": "Menu utilisateur",
+    "BUG_REPORT": "Signaler un bug",
+    "TASK": "Tâche",
+    "MESSAGE": "Message",
+    "SETTINGS": "Paramètres",
+    "THEME": {
+      "LABEL": "Son",
+      "AUTO": "Auto",
+      "LIGHT": "Bien sûr",
+      "DARK": "Sombre"
+    },
+    "LANGUAGE": "Langue",
+    "LANGUAGES": {
+      "PT-BR": {
+        "NAME": "Portugais (Brésil)",
+        "REGION": "Brésil"
+      },
+      "EN": {
+        "NAME": "Anglais",
+        "REGION": "International"
+      },
+      "ES": {
+        "NAME": "Espagnol",
+        "REGION": "Espagne/Amérique latine"
+      },
+      "DE": {
+        "NAME": "Allemand",
+        "REGION": "Allemagne"
+      },
+      "FR": {
+        "NAME": "Français",
+        "REGION": "France/Canada"
+      },
+      "IT": {
+        "NAME": "italien",
+        "REGION": "Italie"
+      }
+    }
+  }
+}

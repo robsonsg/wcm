@@ -1,0 +1,59 @@
+{
+  "DOMAIN": {
+    "WELCOME": "Willkommen bei WebCareManager"
+  },
+  "FOOTER": {
+    "ALL_RIGHTS_RESERVED": "Alle Rechte vorbehalten",
+    "CONTACT": "Kontakt",
+    "SUPPORT": "Unterstützung"
+  },
+  "COMMON": {
+    "HOME": "Heim",
+    "LOGOUT": "Ausgehen"
+  },
+  "HEADER": {
+    "TITLE": "WebCareManager",
+    "MENU": "Speisekarte",
+    "MENU_PRINCIPAL_OPEN": "Hauptmenü (Öffnen)",
+    "MENU_PRINCIPAL_CLOSE": "Hauptmenü (Schließen)",
+    "MENU_SECUNDARY": "Sekundärmenü",
+    "MENU_USER": "Benutzermenü",
+    "BUG_REPORT": "Fehler melden",
+    "TASK": "Aufgabe",
+    "MESSAGE": "Nachricht",
+    "SETTINGS": "Einstellungen",
+    "THEME": {
+      "LABEL": "Ihr",
+      "AUTO": "Auto",
+      "LIGHT": "Natürlich",
+      "DARK": "Dunkel"
+    },
+    "LANGUAGE": "Sprache",
+    "LANGUAGES": {
+      "PT-BR": {
+        "NAME": "Portugiesisch (Brasilien)",
+        "REGION": "Brasilien"
+      },
+      "EN": {
+        "NAME": "Englisch",
+        "REGION": "Internationales"
+      },
+      "ES": {
+        "NAME": "Spanisch",
+        "REGION": "Spanien/Lateinamerika"
+      },
+      "DE": {
+        "NAME": "Deutsch",
+        "REGION": "Deutschland"
+      },
+      "FR": {
+        "NAME": "Französisch",
+        "REGION": "Frankreich/Kanada"
+      },
+      "IT": {
+        "NAME": "Italienisch",
+        "REGION": "Italien"
+      }
+    }
+  }
+}
