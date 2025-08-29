@@ -1,0 +1,88 @@
+{
+  "DOMAIN": {
+    "WELCOME": "Benvenido a WebCareManager"
+  },
+  "FOOTER": {
+    "ALL_RIGHTS_RESERVED": "Reservados todos los derechos",
+    "CONTACT": "Contacto",
+    "SUPPORT": "Apoyo"
+  },
+  "COMMON": {
+    "HOME": "Hogar",
+    "LOGOUT": "Salir",
+    "PROCESSING": "Tratamiento..."
+  },
+  "HEADER": {
+    "TITLE": "Administrador de atención web",
+    "MENU": "Menú",
+    "MENU_PRINCIPAL_OPEN": "Menu Principal (Abrir)",
+    "MENU_PRINCIPAL_CLOSE": "Menú principal (Cerrar)",
+    "MENU_SECUNDARY": "Menú secundario",
+    "MENU_USER": "Menú de usuario",
+    "BUG_REPORT": "Relatar bug",
+    "TASK": "Tarea",
+    "MESSAGE": "Mensaje",
+    "SETTINGS": "Ajustes",
+    "THEME": {
+      "LABEL": "Su",
+      "AUTO": "Auto",
+      "LIGHT": "Por supuesto",
+      "DARK": "Oscuro"
+    },
+    "LANGUAGE": "Idioma",
+    "LANGUAGES": {
+      "PT-BR": {
+        "NAME": "Portugués (Brasil)",
+        "REGION": "Brasil"
+      },
+      "EN": {
+        "NAME": "Inglés",
+        "REGION": "Internacional"
+      },
+      "ES": {
+        "NAME": "Español",
+        "REGION": "España/Latinoamérica"
+      },
+      "DE": {
+        "NAME": "Alemán",
+        "REGION": "Alemania"
+      },
+      "FR": {
+        "NAME": "Francés",
+        "REGION": "Francia/Canadá"
+      },
+      "IT": {
+        "NAME": "italiano",
+        "REGION": "Italia"
+      }
+    },
+    "FEEDBACK": "Comentario"
+  },
+  "REPORTS": {
+    "RECORDS": "registros",
+    "CHOICE_FILE": "Elegir archivo",
+    "NO_FILE_CHOSEN": "No hay ningún archivo seleccionado",
+    "PROFESSIONAL_COMPENSATION_ANALYSIS": {
+      "BREADCRUMB": "Análisis de compensación",
+      "TITLE": "Análisis de compensación profesional",
+      "LABEL_UPLOAD": "Carga de archivos",
+      "PROFESSIONAL_COMPENSATION_TITLE": "Compensación Profesional (COST)",
+      "PROFESSIONAL_COMPENSATION_SUBTITLE": "Cantidades pagadas a profesionales",
+      "BUDGET_TITLE": "Presupuestos (PROSPECTIVA)",
+      "BUDGET_SUBTITLE": "Valores presupuestados para los servicios",
+      "REVENUE_TITLE": "Cuentas (INGRESOS)",
+      "REVENUE_SUBTITLE": "Importes realmente facturados",
+      "VIEW_SETTINGS": "Ver configuración",
+      "GROUP_BY": "Agrupar por",
+      "ORDER_BY": "Ordenar por",
+      "DIRECT_COST": "Costo directo",
+      "WHITH_COST_ASSISTANCE": "Con subsidio por costo de vida",
+      "WHITH_COST_ASSISTANCE_SUBTITLE": "Incluye el subsidio por costo de vida",
+      "BTN_ANALYZE": "Para analizar",
+      "BTN_EXPAND_ALL": "Expandir",
+      "BTN_COLLAPSE_ALL": "Recolectar",
+      "BTN_RESET": "Restablecer cargas de archivos",
+      "EXECUTIVE_SUMMARY": "Resumen ejecutivo"
+    }
+  }
+}

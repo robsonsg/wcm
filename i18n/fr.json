@@ -1,0 +1,88 @@
+{
+  "DOMAIN": {
+    "WELCOME": "Bienvenue sur WebCareManager"
+  },
+  "FOOTER": {
+    "ALL_RIGHTS_RESERVED": "Tous droits réservés",
+    "CONTACT": "Contact",
+    "SUPPORT": "Soutien"
+  },
+  "COMMON": {
+    "HOME": "Maison",
+    "LOGOUT": "Sortir",
+    "PROCESSING": "Traitement..."
+  },
+  "HEADER": {
+    "TITLE": "WebCareManager",
+    "MENU": "Menu",
+    "MENU_PRINCIPAL_OPEN": "Menu principal (ouvert)",
+    "MENU_PRINCIPAL_CLOSE": "Menu principal (Fermer)",
+    "MENU_SECUNDARY": "Menu secondaire",
+    "MENU_USER": "Menu utilisateur",
+    "BUG_REPORT": "Signaler un bug",
+    "TASK": "Tâche",
+    "MESSAGE": "Message",
+    "SETTINGS": "Paramètres",
+    "THEME": {
+      "LABEL": "Son",
+      "AUTO": "Auto",
+      "LIGHT": "Bien sûr",
+      "DARK": "Sombre"
+    },
+    "LANGUAGE": "Langue",
+    "LANGUAGES": {
+      "PT-BR": {
+        "NAME": "Portugais (Brésil)",
+        "REGION": "Brésil"
+      },
+      "EN": {
+        "NAME": "Anglais",
+        "REGION": "International"
+      },
+      "ES": {
+        "NAME": "Espagnol",
+        "REGION": "Espagne/Amérique latine"
+      },
+      "DE": {
+        "NAME": "Allemand",
+        "REGION": "Allemagne"
+      },
+      "FR": {
+        "NAME": "Français",
+        "REGION": "France/Canada"
+      },
+      "IT": {
+        "NAME": "italien",
+        "REGION": "Italie"
+      }
+    },
+    "FEEDBACK": "Retour"
+  },
+  "REPORTS": {
+    "RECORDS": "enregistrements",
+    "CHOICE_FILE": "Choisir le fichier",
+    "NO_FILE_CHOSEN": "Aucun fichier sélectionné",
+    "PROFESSIONAL_COMPENSATION_ANALYSIS": {
+      "BREADCRUMB": "Analyse de la rémunération",
+      "TITLE": "Analyse de la rémunération professionnelle",
+      "LABEL_UPLOAD": "Téléchargement de fichiers",
+      "PROFESSIONAL_COMPENSATION_TITLE": "Rémunération professionnelle (COST)",
+      "PROFESSIONAL_COMPENSATION_SUBTITLE": "Montants versés aux professionnels",
+      "BUDGET_TITLE": "Budgets (PROSPECTIVE)",
+      "BUDGET_SUBTITLE": "Valeurs budgétisées pour les services",
+      "REVENUE_TITLE": "Comptes (REVENUS)",
+      "REVENUE_SUBTITLE": "Montants réellement facturés",
+      "VIEW_SETTINGS": "Afficher les paramètres",
+      "GROUP_BY": "Grouper par",
+      "ORDER_BY": "Trier par",
+      "DIRECT_COST": "Coût direct",
+      "WHITH_COST_ASSISTANCE": "Avec allocation de vie chère",
+      "WHITH_COST_ASSISTANCE_SUBTITLE": "Comprend l'indemnité de coût de la vie",
+      "BTN_ANALYZE": "Pour analyser",
+      "BTN_EXPAND_ALL": "Développer",
+      "BTN_COLLAPSE_ALL": "Collecter",
+      "BTN_RESET": "Réinitialiser les téléchargements de fichiers",
+      "EXECUTIVE_SUMMARY": "Résumé exécutif"
+    }
+  }
+}

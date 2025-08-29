@@ -1,0 +1,88 @@
+{
+  "DOMAIN": {
+    "WELCOME": "Willkommen bei WebCareManager"
+  },
+  "FOOTER": {
+    "ALL_RIGHTS_RESERVED": "Alle Rechte vorbehalten",
+    "CONTACT": "Kontakt",
+    "SUPPORT": "Unterstützung"
+  },
+  "COMMON": {
+    "HOME": "Heim",
+    "LOGOUT": "Ausgehen",
+    "PROCESSING": "Verarbeitung..."
+  },
+  "HEADER": {
+    "TITLE": "WebCareManager",
+    "MENU": "Speisekarte",
+    "MENU_PRINCIPAL_OPEN": "Hauptmenü (Öffnen)",
+    "MENU_PRINCIPAL_CLOSE": "Hauptmenü (Schließen)",
+    "MENU_SECUNDARY": "Sekundärmenü",
+    "MENU_USER": "Benutzermenü",
+    "BUG_REPORT": "Fehler melden",
+    "TASK": "Aufgabe",
+    "MESSAGE": "Nachricht",
+    "SETTINGS": "Einstellungen",
+    "THEME": {
+      "LABEL": "Ihr",
+      "AUTO": "Auto",
+      "LIGHT": "Natürlich",
+      "DARK": "Dunkel"
+    },
+    "LANGUAGE": "Sprache",
+    "LANGUAGES": {
+      "PT-BR": {
+        "NAME": "Portugiesisch (Brasilien)",
+        "REGION": "Brasilien"
+      },
+      "EN": {
+        "NAME": "Englisch",
+        "REGION": "Internationales"
+      },
+      "ES": {
+        "NAME": "Spanisch",
+        "REGION": "Spanien/Lateinamerika"
+      },
+      "DE": {
+        "NAME": "Deutsch",
+        "REGION": "Deutschland"
+      },
+      "FR": {
+        "NAME": "Französisch",
+        "REGION": "Frankreich/Kanada"
+      },
+      "IT": {
+        "NAME": "Italienisch",
+        "REGION": "Italien"
+      }
+    },
+    "FEEDBACK": "Rückmeldung"
+  },
+  "REPORTS": {
+    "RECORDS": "Aufzeichnungen",
+    "CHOICE_FILE": "Datei auswählen",
+    "NO_FILE_CHOSEN": "Keine Datei ausgewählt",
+    "PROFESSIONAL_COMPENSATION_ANALYSIS": {
+      "BREADCRUMB": "Vergütungsanalyse",
+      "TITLE": "Professionelle Vergütungsanalyse",
+      "LABEL_UPLOAD": "Datei-Upload",
+      "PROFESSIONAL_COMPENSATION_TITLE": "Berufsvergütung (COST)",
+      "PROFESSIONAL_COMPENSATION_SUBTITLE": "An Berufstätige gezahlte Beträge",
+      "BUDGET_TITLE": "Budgets (FORESIGHT)",
+      "BUDGET_SUBTITLE": "Budgetwerte für Dienstleistungen",
+      "REVENUE_TITLE": "Konten (EINNAHMEN)",
+      "REVENUE_SUBTITLE": "Tatsächlich in Rechnung gestellte Beträge",
+      "VIEW_SETTINGS": "Einstellungen anzeigen",
+      "GROUP_BY": "Gruppieren nach",
+      "ORDER_BY": "Sortieren nach",
+      "DIRECT_COST": "Direkte Kosten",
+      "WHITH_COST_ASSISTANCE": "Mit Lebenshaltungskostenzuschuss",
+      "WHITH_COST_ASSISTANCE_SUBTITLE": "Beinhaltet die Lebenshaltungskostenpauschale",
+      "BTN_ANALYZE": "Analysieren",
+      "BTN_EXPAND_ALL": "Expandieren",
+      "BTN_COLLAPSE_ALL": "Sammeln",
+      "BTN_RESET": "Datei-Uploads zurücksetzen",
+      "EXECUTIVE_SUMMARY": "Zusammenfassung"
+    }
+  }
+}

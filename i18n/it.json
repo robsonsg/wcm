@@ -1,0 +1,88 @@
+{
+  "DOMAIN": {
+    "WELCOME": "Benvenuti a WebCareManager"
+  },
+  "FOOTER": {
+    "ALL_RIGHTS_RESERVED": "Tutti i diritti riservati",
+    "CONTACT": "Contatto",
+    "SUPPORT": "Supporto"
+  },
+  "COMMON": {
+    "HOME": "Casa",
+    "LOGOUT": "Per uscire",
+    "PROCESSING": "Elaborazione in corso..."
+  },
+  "HEADER": {
+    "TITLE": "WebCareManager",
+    "MENU": "Menu",
+    "MENU_PRINCIPAL_OPEN": "Menu principale (Apri)",
+    "MENU_PRINCIPAL_CLOSE": "Menu principale (Chiudi)",
+    "MENU_SECUNDARY": "Menu secondario",
+    "MENU_USER": "Menu utente",
+    "BUG_REPORT": "Segnala bug",
+    "TASK": "Compito",
+    "MESSAGE": "Messaggio",
+    "SETTINGS": "Impostazioni",
+    "THEME": {
+      "LABEL": "Suo",
+      "AUTO": "Auto",
+      "LIGHT": "Ovviamente",
+      "DARK": "Buio"
+    },
+    "LANGUAGE": "Lingua",
+    "LANGUAGES": {
+      "PT-BR": {
+        "NAME": "portoghese (Brasile)",
+        "REGION": "Brasile"
+      },
+      "EN": {
+        "NAME": "Inglese",
+        "REGION": "Internazionale"
+      },
+      "ES": {
+        "NAME": "spagnolo",
+        "REGION": "Spagna/America Latina"
+      },
+      "DE": {
+        "NAME": "tedesco",
+        "REGION": "Germania"
+      },
+      "FR": {
+        "NAME": "francese",
+        "REGION": "Francia/Canada"
+      },
+      "IT": {
+        "NAME": "Italiano",
+        "REGION": "Italia"
+      }
+    },
+    "FEEDBACK": "Feedback"
+  },
+  "REPORTS": {
+    "RECORDS": "registrazioni",
+    "CHOICE_FILE": "Scegli file",
+    "NO_FILE_CHOSEN": "Nessun file selezionato",
+    "PROFESSIONAL_COMPENSATION_ANALYSIS": {
+      "BREADCRUMB": "Analisi della retribuzione",
+      "TITLE": "Analisi della retribuzione professionale",
+      "LABEL_UPLOAD": "Caricamento file",
+      "PROFESSIONAL_COMPENSATION_TITLE": "Compensazione professionale (COST)",
+      "PROFESSIONAL_COMPENSATION_SUBTITLE": "Importi pagati ai professionisti",
+      "BUDGET_TITLE": "Bilanci (PREVISIONE)",
+      "BUDGET_SUBTITLE": "Valori preventivati per i servizi",
+      "REVENUE_TITLE": "Conti (RICAVI)",
+      "REVENUE_SUBTITLE": "Importi effettivamente fatturati",
+      "VIEW_SETTINGS": "Visualizza impostazioni",
+      "GROUP_BY": "Raggruppa per",
+      "ORDER_BY": "ordina per",
+      "DIRECT_COST": "Costo diretto",
+      "WHITH_COST_ASSISTANCE": "Con indennità di costo della vita",
+      "WHITH_COST_ASSISTANCE_SUBTITLE": "Include l'indennità per il costo della vita",
+      "BTN_ANALYZE": "Per analizzare",
+      "BTN_EXPAND_ALL": "Espandere",
+      "BTN_COLLAPSE_ALL": "Raccogliere",
+      "BTN_RESET": "Reimposta i caricamenti dei file",
+      "EXECUTIVE_SUMMARY": "Sintesi"
+    }
+  }
+}

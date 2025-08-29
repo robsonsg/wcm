@@ -1,0 +1,88 @@
+{
+  "DOMAIN": {
+    "WELCOME": "Bem-vindo ao WebCareManager"
+  },
+  "FOOTER": {
+    "ALL_RIGHTS_RESERVED": "Todos os direitos reservados",
+    "CONTACT": "Contato",
+    "SUPPORT": "Suporte"
+  },
+  "COMMON": {
+    "HOME": "Home",
+    "LOGOUT": "Sair",
+    "PROCESSING": "Processando..."
+  },
+  "HEADER": {
+    "TITLE": "WebCareManager",
+    "MENU": "Menu",
+    "MENU_PRINCIPAL_OPEN": "Menu Principal (Abrir)",
+    "MENU_PRINCIPAL_CLOSE": "Menu Principal (Fechar)",
+    "MENU_SECUNDARY": "Menu Secundário",
+    "MENU_USER": "Menu de Usuário",
+    "BUG_REPORT": "Relatar bug",
+    "FEEDBACK": "Feedback",
+    "TASK": "Tarefa",
+    "MESSAGE": "Mensagem",
+    "SETTINGS": "Configurações",
+    "THEME": {
+      "LABEL": "Tema",
+      "AUTO": "Auto",
+      "LIGHT": "Claro",
+      "DARK": "Escuro"
+    },
+    "LANGUAGE": "Idioma",
+    "LANGUAGES": {
+      "PT-BR": {
+        "NAME": "Português (Brasil)",
+        "REGION": "Brasil"
+      },
+      "EN": {
+        "NAME": "Inglês",
+        "REGION": "International"
+      },
+      "ES": {
+        "NAME": "Espanhol",
+        "REGION": "España/Latinoamérica"
+      },
+      "DE": {
+        "NAME": "Alemão",
+        "REGION": "Alemanha"
+      },
+      "FR": {
+        "NAME": "Francês",
+        "REGION": "França/Canadá"
+      },
+      "IT": {
+        "NAME": "Italiano",
+        "REGION": "Italia"
+      }
+    }
+  },
+  "REPORTS": {
+    "RECORDS": "registros",
+    "CHOICE_FILE": "Escolher arquivo",
+    "NO_FILE_CHOSEN": "Nenhum arquivo escolhido",
+    "PROFESSIONAL_COMPENSATION_ANALYSIS": {
+      "BREADCRUMB": "Análise de Remuneração",
+      "TITLE": "Análise de Remuneração Profissional",
+      "LABEL_UPLOAD": "Upload de Arquivo",
+      "PROFESSIONAL_COMPENSATION_TITLE": "Remuneração de Profissionais (CUSTO)",
+      "PROFESSIONAL_COMPENSATION_SUBTITLE": "Valores pagos aos profissionais",
+      "BUDGET_TITLE": "Orçamentos (PREVISÃO)",
+      "BUDGET_SUBTITLE": "Valores orçados para os serviços",
+      "REVENUE_TITLE": "Contas (RECEITA)",
+      "REVENUE_SUBTITLE": "Valores efetivamente faturados",
+      "VIEW_SETTINGS": "Configurações de Visualização",
+      "GROUP_BY": "Agrupar por",
+      "ORDER_BY": "Ordenar por",
+      "DIRECT_COST": "Custo Direto",
+      "WHITH_COST_ASSISTANCE": "C/Ajuda de Custo",
+      "WHITH_COST_ASSISTANCE_SUBTITLE": "Inclui a ajuda de custo no custo",
+      "BTN_ANALYZE": "Analisar",
+      "BTN_EXPAND_ALL": "Expandir",
+      "BTN_COLLAPSE_ALL": "Recolher",
+      "BTN_RESET": "Resetar Upload de Arquivos",
+      "EXECUTIVE_SUMMARY": "Resumo Executivo"
+    }
+  }
+}
